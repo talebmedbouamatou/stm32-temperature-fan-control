@@ -2,7 +2,7 @@
 
 ![Platform: STM32F411E-DISCO](https://img.shields.io/badge/Platform-STM32F411E--DISCO-blue)
 ![Language: C++](https://img.shields.io/badge/Language-C%2B%2B-00599C)
-![Framework: STM32 HAL](https://img.shields.io/badge/Framework-STM32%20HAL-green)
+![IDE: STM32CubeIDE](https://img.shields.io/badge/IDE-STM32CubeIDE-green)
 
 This project implements a fan-based temperature control system for the STM32F411E-DISCO board. It uses C++ together with the STM32 HAL.
 
